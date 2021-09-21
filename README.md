@@ -13,22 +13,25 @@ Blockchain can bring disruption to the handling of patents and trademarks by red
 
 Read further to have an in-depth understanding of the Blockchain implementation in Intellectual Property Rights.
 
-User Personas Involved in the Blockchain based Solutions for Intellectual Property Management
-Content Creators – Who have a creative flair and authorship of original data. For example, authors, artists, photographers, designers, software developers, musicians, writers and anyone who is the owner of the original data.
-Content Consumers – Who are willing to consume the digital content and support content creator’s artwork.
-Copyright Entities (Lawyers) – Who are committed to protecting the intellectual property of content creators.
-Technical Components for user-personas in the system
-Front-end technology
+# User Personas Involved in the Blockchain based Solutions for Intellectual Property Management
+# Content Creators
+– Who have a creative flair and authorship of original data. For example, authors, artists, photographers, designers, software developers, musicians, writers and anyone who is the owner of the original data.
+# Content Consumers 
+– Who are willing to consume the digital content and support content creator’s artwork.
+# Copyright Entities (Lawyers) 
+– Who are committed to protecting the intellectual property of content creators.
+# Technical Components for user-personas in the system
+# Front-end technology
 
 Web Portal/Mobile App for Content Creators
 Web Portal/Mobile App for Content Consumers
 Web Portal for Lawyers
-Back-end technology
+# Back-end technology
 
 Permissioned Blockchain Component
 Microservices programmed using node.js
-Here’s how the blockchain based solution for intellectual property (IP) management could work
-a. Content Creators sign up into the platform
+# Here’s how the blockchain based solution for intellectual property (IP) management could work
+# a. Content Creators sign up into the platform
 
 Content creators who want to get their creative work patented would have to sign up to the blockchain based platform for IP management and to upload intellectual property on the blockchain.
 
@@ -41,7 +44,7 @@ Date of Birth
 Designation
 Since the personal information will be stored on the blockchain, there is no chance of data disclosure without the user’s consent.
 
-b. Content Creators upload IP on the blockchain network
+# b. Content Creators upload IP on the blockchain network
 
 After signing up to the platform successfully, the next step is to add an intellectual property for which a patent application needs to be filed. The content creators can upload the information related to IP on the blockchain network.
 
@@ -57,7 +60,7 @@ After inputting the above information, a content creator can upload their intell
 
 Once the intellectual property is added to the blockchain, it can be made visible to all other members of the network, without the possibility of alteration.
 
-c. Content consumers requesting to consume the digital content
+# c. Content consumers requesting to consume the digital content
 
 Content consumers willing to utilize the digital content would also have to register to the platform for accessing it.
 
